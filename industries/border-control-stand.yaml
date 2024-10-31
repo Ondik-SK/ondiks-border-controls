@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- BDCE
+colour: 1
+fundCostMultiplier: 0
+id: 21
+layout:
+- - - -1
+name: Border Control Stand
+placement: anywhere
+probabilityInGame: 10
+probabilityMapGen: 20
+prospectChance: 0
+tiles: []
+type: secondary

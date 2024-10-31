@@ -1,0 +1,17 @@
+abbreviation: BC
+available: false
+classes: 1
+colour: 145
+id: 5
+label: BDCW
+longName: border control workers
+name: Border control workers
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 20560
+sprite:
+  filename: cargoes/border-control-workers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 2
